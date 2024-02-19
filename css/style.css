@@ -9,4 +9,6 @@
 
 body {
   background-color: #edbd25;
+  background-image: url(/img/programming.png);
+  background-repeat: repeat;
 }
