@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.debug {
+  border: 2px dashed red;
+}
+
+body {
+  background-color: #edbd25;
+}
